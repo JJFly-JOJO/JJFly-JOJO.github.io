@@ -1,7 +1,7 @@
 title: Welcome to ZZJ's zone
 name: HUST_ZZJ
 email: 13419232991@163.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: 
 
 baseurl: "/blog"
 url: "https://jjfly-jojo.github.io/"
@@ -13,24 +13,24 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: #https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
 project_two: Second Project
 project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: #https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
 project_three: Third Project
 project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: #https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
 
 project_four: Fourth Project
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: #https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
@@ -146,8 +146,8 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: #https://github.com/jameshamann/jekyll-material-theme
+medium: #https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
